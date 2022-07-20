@@ -1,0 +1,1 @@
+git config --global --replace-all credential.helper cache
